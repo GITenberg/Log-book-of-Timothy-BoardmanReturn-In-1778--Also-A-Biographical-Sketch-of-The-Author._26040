@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '31763'
     url: http://www.gutenberg.org/2009/agents/31763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26040#Log-book-of-Timothy-BoardmanReturn-In-1778--Also-A-Biographical-Sketch-of-The-Author.
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
